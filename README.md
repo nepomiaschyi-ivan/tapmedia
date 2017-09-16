@@ -1,6 +1,24 @@
 Yii 2 Basic Project Template
 ============================
 
+1 cloning project
+
+2 configure /config/db.php
+
+3 composer install
+
+4 run migrations
+
+/ - homepage
+/banner - banner
+/admin - admin
+
+login: webmaster
+pass: webmaster
+
+
+
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
