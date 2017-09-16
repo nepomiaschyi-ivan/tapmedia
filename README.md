@@ -10,10 +10,13 @@ Yii 2 Basic Project Template
 4 run migrations
 
 / - homepage
+
 /banner - banner
+
 /admin - admin
 
 login: webmaster
+
 pass: webmaster
 
 
